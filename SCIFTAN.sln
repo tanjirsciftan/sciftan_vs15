@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCIFTAN.DAL", "SCIFTAN.DAL\SCIFTAN.DAL.csproj", "{BE35D551-62B0-4DFF-A617-D0CE43E0DE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCIFTAN.BLL", "SCIFTAN.BLL\SCIFTAN.BLL.csproj", "{B3C31DD9-83A9-4DB8-8B3E-976DA059ED7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCIFTAN.WEB", "SCIFTAN\SCIFTAN.WEB.csproj", "{F9D1A2B9-6F03-4393-8B3A-0E8EF0EBF34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE35D551-62B0-4DFF-A617-D0CE43E0DE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE35D551-62B0-4DFF-A617-D0CE43E0DE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE35D551-62B0-4DFF-A617-D0CE43E0DE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE35D551-62B0-4DFF-A617-D0CE43E0DE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C31DD9-83A9-4DB8-8B3E-976DA059ED7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C31DD9-83A9-4DB8-8B3E-976DA059ED7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C31DD9-83A9-4DB8-8B3E-976DA059ED7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C31DD9-83A9-4DB8-8B3E-976DA059ED7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D1A2B9-6F03-4393-8B3A-0E8EF0EBF34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D1A2B9-6F03-4393-8B3A-0E8EF0EBF34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D1A2B9-6F03-4393-8B3A-0E8EF0EBF34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D1A2B9-6F03-4393-8B3A-0E8EF0EBF34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

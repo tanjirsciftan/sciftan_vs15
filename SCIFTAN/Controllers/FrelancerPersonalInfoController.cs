@@ -29,7 +29,7 @@ namespace SCIFTAN.Controllers
         public ActionResult Index()
         {
             FREELANCER_PERSONAL_INFO personalInfo=null;
-            if (User.Identity.GetUserId() != null) 
+            if (User.Identity.GetUserId() != null)
             {
                 personalInfo = _iFreelancerPersonalInfoService.GetFreelancerPersonalInfoById(User.Identity.GetUserId());
             }

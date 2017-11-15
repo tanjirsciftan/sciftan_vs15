@@ -18,3 +18,34 @@ E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN\SCIFTAN.BLL\bin\Debug\Micr
 E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
 E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\SCIFTAN.BLL.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\SCIFTAN.BLL.pdb
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\CommonServiceLocator.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\SCIFTAN.DAL.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\EntityFramework.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\SCIFTAN.DAL.pdb
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\CommonServiceLocator.pdb
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\EntityFramework.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.csprojResolveAssemblyReference.cache
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.pdb
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Helpers.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Mvc.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Razor.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\Unity.Mvc5.dll
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Helpers.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Mvc.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Razor.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Razor.xml

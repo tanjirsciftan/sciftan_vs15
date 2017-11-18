@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SCIFTAN.BLL.ModelMapping;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -14,6 +15,7 @@ namespace SCIFTAN
         {
             AreaRegistration.RegisterAllAreas();
             UnityConfig.RegisterComponents();
+            AutoMapperBootStrapper.Initialize();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);

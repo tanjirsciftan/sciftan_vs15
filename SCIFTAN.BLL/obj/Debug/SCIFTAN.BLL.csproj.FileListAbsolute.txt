@@ -49,3 +49,36 @@ E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.Razor.xml
 E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.xml
 E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\TANJIR\OTHERS\sciftan_vs15\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\SCIFTAN.BLL.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\SCIFTAN.BLL.pdb
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\CommonServiceLocator.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\SCIFTAN.DAL.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Helpers.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Mvc.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Razor.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Unity.Mvc5.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\EntityFramework.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\SCIFTAN.DAL.pdb
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\CommonServiceLocator.pdb
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Helpers.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Mvc.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.Razor.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\EntityFramework.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\obj\Debug\SCIFTAN.BLL.pdb
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\AutoMapper.dll
+E:\PROJECTS\Self Projects\SCIFTAN\SICFTAN_SRC\SCIFTAN.BLL\bin\Debug\AutoMapper.xml

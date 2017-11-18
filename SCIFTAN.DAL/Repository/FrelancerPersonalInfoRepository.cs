@@ -14,7 +14,9 @@ namespace SCIFTAN.DAL.Repository
     public class FrelancerPersonalInfoRepository : IFreelancerPersonalInfoRepository
     {
         private SciftanDbContext db = new SciftanDbContext();
-        public IList<FREELANCER_PERSONAL_INFO> GetAll()
+
+
+        public List<FREELANCER_PERSONAL_INFO> GetAll()
         {
             return db.FREELANCER_PERSONAL_INFO.ToList();
         }

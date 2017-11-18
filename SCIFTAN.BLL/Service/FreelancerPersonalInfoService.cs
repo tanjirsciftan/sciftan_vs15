@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using SCIFTAN.BLL.IService;
 using SCIFTAN.DAL.DB.EF;
 using SCIFTAN.DAL.IRepository;
+using AutoMapper;
+using SCIFTAN.BLL.Models;
 
 namespace SCIFTAN.BLL.Service
 {
@@ -18,19 +20,24 @@ namespace SCIFTAN.BLL.Service
             _iFreelancerPersonalInfoRepository = iFreelancerPersonalInfoRepository;
         }
 
-        public IList<FREELANCER_PERSONAL_INFO> GetAllFreelancerPersonalInfo()
+        public List<FREELANCER_PERSONAL_INFO_Model> GetAllFreelancerPersonalInfo()
         {
-            return _iFreelancerPersonalInfoRepository.GetAll();
+            return Mapper.Map<List<FREELANCER_PERSONAL_INFO>, List<FREELANCER_PERSONAL_INFO_Model>>(_iFreelancerPersonalInfoRepository.GetAll()); 
         }
 
-        public FREELANCER_PERSONAL_INFO GetFreelancerPersonalInfoById(string Id)
+        public FREELANCER_PERSONAL_INFO_Model GetFreelancerPersonalInfoById(string Id)
         {
-            return _iFreelancerPersonalInfoRepository.GetById(Id);
+            return Mapper.Map <FREELANCER_PERSONAL_INFO,  FREELANCER_PERSONAL_INFO_Model>(_iFreelancerPersonalInfoRepository.GetById(Id));
         }
 
-        public bool InsertFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO entity)
+        public bool InsertFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO_Model entity)
         {
-            return _iFreelancerPersonalInfoRepository.Insert(entity);
+            if (entity != null)
+            {
+                var data = Mapper.Map<FREELANCER_PERSONAL_INFO_Model, FREELANCER_PERSONAL_INFO>(entity);
+                return _iFreelancerPersonalInfoRepository.Insert(data);
+            }
+            return false;
         }
 
         public bool DeleteFreelancerPersonalInfo(string freelaner_id)
@@ -38,11 +45,12 @@ namespace SCIFTAN.BLL.Service
             return _iFreelancerPersonalInfoRepository.Delete(freelaner_id);
         }
 
-        public bool UpdateFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO entity)
+        public bool UpdateFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO_Model entity)
         {
             if (entity != null)
             {
-                return _iFreelancerPersonalInfoRepository.Update(entity); 
+                var data = Mapper.Map<FREELANCER_PERSONAL_INFO_Model, FREELANCER_PERSONAL_INFO>(entity);
+                return _iFreelancerPersonalInfoRepository.Update(data); 
                 
             }
             return false;

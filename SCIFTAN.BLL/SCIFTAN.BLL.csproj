@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\..\..\Office Projects\Nuspay\BlockChain.My_V2\BlockChain.My.BLL\bin\Debug\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="CommonServiceLocator, Version=2.0.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
       <HintPath>..\packages\Unity.5.2.0\lib\net45\CommonServiceLocator.dll</HintPath>
       <Private>True</Private>
@@ -86,6 +89,10 @@
   <ItemGroup>
     <Compile Include="IOC\DependencyInjector.cs" />
     <Compile Include="IService\IFreelancerPersonalInfoService.cs" />
+    <Compile Include="ModelMapping\AutoMapperBootStrapper.cs" />
+    <Compile Include="ModelMapping\DatabaseToDomainProfile.cs" />
+    <Compile Include="ModelMapping\DomainToDatabaseProfile.cs" />
+    <Compile Include="Models\FREELANCER_PERSONAL_INFO_Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\FreelancerPersonalInfoService.cs" />
   </ItemGroup>

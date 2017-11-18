@@ -19,7 +19,6 @@ namespace SCIFTAN
 			var container = new UnityContainer();
 
             //Repository and Service Registration in Unity for Dependency Injection
-
             container.RegisterType<DbContext, SciftanDbContext>();
             container.RegisterType<IUserStore<Models.ApplicationUser>, UserStore<Models.ApplicationUser>>();
             container.RegisterType<IFreelancerPersonalInfoRepository, FrelancerPersonalInfoRepository>();

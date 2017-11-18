@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SCIFTAN.DAL.DB.EF;
+using SCIFTAN.BLL.Models;
 
 namespace SCIFTAN.BLL.IService
 {
     public interface IFreelancerPersonalInfoService
     {
-        IList<FREELANCER_PERSONAL_INFO> GetAllFreelancerPersonalInfo();
-        FREELANCER_PERSONAL_INFO GetFreelancerPersonalInfoById(string Id);
-        bool InsertFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO entity);
+        List<FREELANCER_PERSONAL_INFO_Model> GetAllFreelancerPersonalInfo();
+        FREELANCER_PERSONAL_INFO_Model GetFreelancerPersonalInfoById(string Id);
+        bool InsertFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO_Model entity);
         bool DeleteFreelancerPersonalInfo(string freelaner_id);
-        bool UpdateFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO entity);
+        bool UpdateFreelancerPersonalInfo(FREELANCER_PERSONAL_INFO_Model entity);
     }
 }

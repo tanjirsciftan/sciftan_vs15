@@ -13,5 +13,12 @@ namespace SCIFTAN.Models
             : base("DBCS")
         {
         }
+
+        //public static ApplicationDbContext Create()
+        //{
+        //    return new ApplicationDbContext();
+        //}
+
+
     }
 }
